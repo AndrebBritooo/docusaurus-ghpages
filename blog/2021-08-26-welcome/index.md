@@ -1,7 +1,7 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
+slug: Bem-Vindo
+title: Bem-Vindo
+authors: [André Brito, Iannis Simirad, David Costa]
 tags: [facebook, hello, docusaurus]
 ---
 
