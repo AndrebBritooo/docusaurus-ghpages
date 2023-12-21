@@ -25,7 +25,7 @@ Oferecemos uma ampla gama de serviços para atender a todas as necessidades da s
 
 ## Entre em Contato
 
-Estamos ansiosos para cuidar da sua moto! Entre em contato conosco para agendar um serviço, fazer perguntas ou simplesmente conhecer melhor nossos serviços. Visite-nos na [nossa localização](endereco-da-oficina) ou entre em contato pelo telefone (xx) xxxxx-xxxx.
+Estamos ansiosos para cuidar da sua moto! Entre em contato conosco para agendar um serviço, fazer perguntas ou simplesmente conhecer melhor nossos serviços. Visite-nos na [nossa localização](C:\Users\David\docusaurus-ghpages\static\img\localizacao.png) ou entre em contato pelo telefone (xx) xxxxx-xxxx.
 
 Confie na nossa equipe para manter a sua moto em perfeitas condições e pronta para novas aventuras!
 
