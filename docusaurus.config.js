@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'Logo.ico',
+      image: 'https://andrebbritooo.github.io/docusaurus-ghpages/blog/long-blog-post/',
       navbar: {
         title: 'Oficina',
         logo: {
