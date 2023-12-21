@@ -1,6 +1,6 @@
 ---
-slug: Bem-Vindo
-title: Bem Vindo
+slug: Quem somos
+title: Quem somos
 ---
 
 Simply add Markdown files (or folders) to the `blog` directory.
