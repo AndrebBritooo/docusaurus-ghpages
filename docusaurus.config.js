@@ -68,7 +68,7 @@ const config = {
         title: 'Oficina',
         logo: {
           alt: '',
-          src: '',
+          src: ' ',
         },
         items: [
           {
