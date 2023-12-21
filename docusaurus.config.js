@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina',
   tagline: 'Oficina',
-  favicon: 'Logo.ico',
+  favicon: 'logo.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AndrebBritooo ', // Usually your GitHub org/user name.
+  organizationName: 'AndrebBritooo', // Usually your GitHub org/user name.
   projectName: 'Oficina', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AndrebBritooo/docusaurus-ghpages.git',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AndrebBritooo/docusaurus-ghpages.git',
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'C:\Users\YvngZennie\Desktop\Andre\docusaurus-ghpages\static\img\favicon.ico',
+      image: 'logo.png',
       navbar: {
         title: 'Oficina',
         logo: {
-          alt: 'logo',
-          src: 'C:\Users\YvngZennie\Desktop\Andre\docusaurus-ghpages\static\img\favicon.ico',
+          alt: '',
+          src: 'logo.png',
         },
         items: [
           {
