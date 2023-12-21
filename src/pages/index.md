@@ -1,37 +1,32 @@
-# Bem-vindo à Oficina 
+Bem-vindo à Oficina
+![Oficina](C:\Users\David\docusaurus-ghpages\static\img\Logo.ico)
 
-![Oficina Mecânica XYZ](url_do_logo_da_oficina)
-
-## Sobre Nós
-
+Sobre Nós
 Somos uma oficina mecânica dedicada a fornecer serviços de alta qualidade para veículos de todas as marcas. Nossa equipe de mecânicos experientes está pronta para atender às suas necessidades de manutenção e reparo.
 
-## Serviços
-
+Serviços
 Oferecemos uma ampla gama de serviços, incluindo:
 
-- Reparos Mecânicos Gerais
-- Troca de Óleo e Filtros
-- Diagnóstico Eletrônico
-- Freios e Suspensão
-- Serviços de Alinhamento
+Reparos Mecânicos Gerais
+Troca de Óleo e Filtros
+Diagnóstico Eletrônico
+Freios e Suspensão
+Serviços de Alinhamento
 
-## Por que Escolher a Oficina Mecânica XYZ?
+Por que Escolher a Oficina Mecânica XYZ?
+Profissionais Qualificados: Nossa equipe é composta por mecânicos qualificados e experientes.
+Atendimento Personalizado: Valorizamos cada cliente e nos esforçamos para oferecer um atendimento personalizado.
+Transparência: Mantemos nossos clientes informados sobre o status dos serviços e quaisquer reparos necessários.
+Preços Competitivos: Oferecemos serviços de qualidade a preços justos e competitivos.
 
-- Profissionais Qualificados: Nossa equipe é composta por mecânicos qualificados e experientes.
-- Atendimento Personalizado: Valorizamos cada cliente e nos esforçamos para oferecer um atendimento personalizado.
-- Transparência: Mantemos nossos clientes informados sobre o status dos serviços e quaisquer reparos necessários.
-- Preços Competitivos: Oferecemos serviços de qualidade a preços justos e competitivos.
-
-## Entre em Contato
-
+Entre em Contato
 Estamos ansiosos para atendê-lo. Entre em contato conosco para agendar uma consulta ou obter mais informações.
 
-**Endereço:** Av. Principal, 123 - Cidade XYZ  
-**Telefone:** (11) 1234-5678  
-**Email:** contato@oficinamecanica.xyz
+Endereço: Av. Principal, 123 - Cidade XYZ
+Telefone: (11) 1234-5678
+Email: contato@oficinamecanica.xyz
 
-Siga-nos nas redes sociais: [Facebook](https://www.facebook.com/images/fb_icon_325x325.png) | [Instagram](https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png)
+Siga-nos nas redes sociais: [Facebook](url_do_facebook) | [Instagram](url_do_instagram)
 
 Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
 
