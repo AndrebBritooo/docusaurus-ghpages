@@ -1,5 +1,7 @@
 # Bem-vindo à Oficina de Motos!
 
+![Moto na Oficina](C:\Users\David\docusaurus-ghpages\static\img\mota.png)
+
 ## Sobre Nós
 
 Somos uma oficina dedicada a cuidar das suas motocicletas com paixão, precisão e expertise. Com uma equipe de mecânicos especializados e apaixonados por motos, estamos comprometidos em oferecer os melhores serviços para manter a sua moto em perfeitas condições.
