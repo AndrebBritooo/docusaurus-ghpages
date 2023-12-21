@@ -68,7 +68,7 @@ const config = {
         title: 'Oficina',
         logo: {
           alt: 'logo',
-          src: 'docusaurus.png',
+          src: 'Logo.ico',
         },
         items: [
           {
