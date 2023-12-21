@@ -1,7 +1,7 @@
 ---
 slug: Bem-Vindo
-title: Bem-Vindo
-authors: [Andre Brito, Iannis Simirad, David Costa]
+title: Welcome
+authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
 
