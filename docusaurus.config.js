@@ -68,7 +68,7 @@ const config = {
         title: 'Oficina',
         logo: {
           alt: 'logo',
-          src: 'Logo.ico',
+          src: 'https://www.bing.com/ck/a?!&&p=e940626a1bd8cf83JmltdHM9MTcwMzExNjgwMCZpZ3VpZD0zYjM1MjcxNi01YmI2LTY3ZjktMzNkNS0zNDhhNWFjMTY2ZDcmaW5zaWQ9NTU0Mg&ptn=3&ver=2&hsh=3&fclid=3b352716-5bb6-67f9-33d5-348a5ac166d7&u=a1L2ltYWdlcy9zZWFyY2g_cT1sb2dvIG9maWNpbmEmRk9STT1JUUZSQkEmaWQ9N0QzNzUyNkFGMEUwNjBEQ0E0QzI0MjZFMkM5RkVCNDIzQzFCNzgxQQ&ntb=1',
         },
         items: [
           {
