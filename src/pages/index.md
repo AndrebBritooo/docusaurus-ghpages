@@ -1,5 +1,5 @@
 Bem-vindo à Oficina
-![Oficina](LOGO.ico)
+![Oficina](Logo.ico)
 
 Sobre Nós
 Somos uma oficina mecânica dedicada a fornecer serviços de alta qualidade para veículos de todas as marcas. Nossa equipe de mecânicos experientes está pronta para atender às suas necessidades de manutenção e reparo.
