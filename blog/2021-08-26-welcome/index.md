@@ -19,7 +19,7 @@ Oferecemos uma ampla gama de serviços para atender às necessidades de manuten�
 
 A qualidade é a nossa prioridade. Utilizamos equipamentos e peças de alta qualidade para garantir que cada serviço seja realizado com precisão e durabilidade. Além disso, nossa equipe é constantemente treinada nas últimas tecnologias e práticas da indústria automotiva.
 
-## Por Que Escolher a [Nome da Oficina]?
+## Por Que Escolher a Oficina?
 
 - **Profissionalismo**: Nossa equipe é composta por profissionais experientes e qualificados.
 - **Transparência**: Mantemos uma comunicação aberta e transparente com nossos clientes sobre os serviços realizados e os custos envolvidos.
