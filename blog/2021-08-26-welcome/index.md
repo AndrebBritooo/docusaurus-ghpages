@@ -1,11 +1,9 @@
 ---
-slug: Bem-Vindo
-title: Bem Vindo
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: Quem somos
+title: Quem somos 
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+
 
 Simply add Markdown files (or folders) to the `blog` directory.
 
