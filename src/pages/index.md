@@ -1,5 +1,5 @@
 Bem-vindo à Oficina
-![Oficina](C:\Users\David\docusaurus-ghpages\static\img\Logo.ico)
+![Oficina](LOGO.ico)
 
 Sobre Nós
 Somos uma oficina mecânica dedicada a fornecer serviços de alta qualidade para veículos de todas as marcas. Nossa equipe de mecânicos experientes está pronta para atender às suas necessidades de manutenção e reparo.
@@ -26,7 +26,7 @@ Endereço: Av. Principal, 123 - Cidade XYZ
 Telefone: (11) 1234-5678
 Email: contato@oficinamecanica.xyz
 
-Siga-nos nas redes sociais: [Facebook](C:\Users\David\docusaurus-ghpages\static\img\facebook.png) | [Instagram](C:\Users\David\docusaurus-ghpages\static\img\transferir.jfif)
+Siga-nos nas redes sociais: [Facebook](facebook.png) | [Instagram](transferir.jfif)
 
 Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
 
