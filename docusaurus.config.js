@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina',
   tagline: 'Oficina',
-  favicon: 'logo.png',
+  favicon: 'Logo.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'AndrebBritooo', // Usually your GitHub org/user name.
+  organizationName: 'AndrebBritooo ', // Usually your GitHub org/user name.
   projectName: 'Oficina', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AndrebBritooo/docusaurus-ghpages.git',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AndrebBritooo/docusaurus-ghpages.git',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,25 +63,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'logo.png',
+      image: 'Logo.ico',
       navbar: {
         title: 'Oficina',
         logo: {
-          alt: '',
-          src: 'logo.png',
+          alt: 'logo',
+          src: 'Logo.ico',
         },
         items: [
-          
           {
-            style: 'dark',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'right',
-            label: 'Conselhos',
+            position: 'left',
+            label: 'Tutorial',
           },
-          {to: '/blog', label: 'Contactos', position: 'right', style: 'dark'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/ docusaurus',
+            href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -130,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} A melhor oficina do algarve`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
