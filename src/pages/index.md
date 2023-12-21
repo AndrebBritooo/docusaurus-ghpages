@@ -1,33 +1,38 @@
-# Bem-vindo à Oficina de Motos!
+# Bem-vindo à Oficina
 
-![Moto na Oficina](C:\Users\David\docusaurus-ghpages\static\img\mota.png)
+![Oficina](C:\Users\David\docusaurus-ghpages\static\img\Logo.ico)
 
 ## Sobre Nós
 
-Somos uma oficina dedicada a cuidar das suas motocicletas com paixão, precisão e expertise. Com uma equipe de mecânicos especializados e apaixonados por motos, estamos comprometidos em oferecer os melhores serviços para manter a sua moto em perfeitas condições.
+Somos uma oficina mecânica dedicada a fornecer serviços de alta qualidade para veículos de todas as marcas. Nossa equipe de mecânicos experientes está pronta para atender às suas necessidades de manutenção e reparo.
 
-## Nossos Serviços
+## Serviços
 
-Oferecemos uma ampla gama de serviços para atender a todas as necessidades da sua moto, incluindo:
+Oferecemos uma ampla gama de serviços, incluindo:
 
-- **Manutenção Preventiva e Corretiva:** Cuidamos da saúde da sua moto para mantê-la funcionando suavemente.
-- **Reparos e Ajustes:** Desde problemas mecânicos até ajustes específicos, estamos aqui para resolver.
-- **Customização e Personalização:** Transforme sua moto em uma expressão única do seu estilo.
-- **Troca de Peças e Acessórios:** Utilizamos peças de alta qualidade para garantir o melhor desempenho da sua moto.
-- **Inspeção e Diagnóstico:** Realizamos inspeções detalhadas para identificar problemas e oferecer soluções precisas.
+- Reparos Mecânicos Gerais
+- Troca de Óleo e Filtros
+- Diagnóstico Eletrônico
+- Freios e Suspensão
+- Serviços de Alinhamento
 
-## Por que Escolher a Nossa Oficina?
+## Por que Escolher a Oficina Mecânica XYZ?
 
-- **Experiência e Qualidade:** Nossos mecânicos são experientes e apaixonados por motos, garantindo serviços de alta qualidade.
-- **Compromisso com o Cliente:** Valorizamos a sua confiança e trabalhamos para superar suas expectativas.
-- **Transparência e Honestidade:** Mantemos uma comunicação clara e transparente sobre os serviços realizados e os custos envolvidos.
-- **Atendimento Personalizado:** Cada moto é única, e tratamos cada cliente de maneira individual, entendendo suas necessidades específicas.
+- Profissionais Qualificados: Nossa equipe é composta por mecânicos qualificados e experientes.
+- Atendimento Personalizado: Valorizamos cada cliente e nos esforçamos para oferecer um atendimento personalizado.
+- Transparência: Mantemos nossos clientes informados sobre o status dos serviços e quaisquer reparos necessários.
+- Preços Competitivos: Oferecemos serviços de qualidade a preços justos e competitivos.
 
 ## Entre em Contato
 
-Estamos ansiosos para cuidar da sua moto! Entre em contato conosco para agendar um serviço, fazer perguntas ou simplesmente conhecer melhor nossos serviços. Visite-nos na [nossa localização](endereco-da-oficina) ou entre em contato pelo telefone (xx) xxxxx-xxxx.
+Estamos ansiosos para atendê-lo. Entre em contato conosco para agendar uma consulta ou obter mais informações.
 
-Confie na nossa equipe para manter a sua moto em perfeitas condições e pronta para novas aventuras!
+**Endereço:** Av. Principal, 123 - Cidade XYZ  
+**Telefone:** (11) 1234-5678  
+**Email:** contato@oficinamecanica.xyz
 
-*A sua moto merece o melhor, e nós estamos aqui para oferecer isso a ela.*
+Siga-nos nas redes sociais: [Facebook](C:\Users\David\docusaurus-ghpages\static\img\facebook.png) | [Instagram](C:\Users\David\docusaurus-ghpages\static\img\instagram.png)
+
+Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
+
 
