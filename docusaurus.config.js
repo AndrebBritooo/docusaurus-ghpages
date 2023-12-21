@@ -92,8 +92,8 @@ const config = {
             title: 'Documentos',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Sobre nós',
+                to: '/docs/blog',
               },
             ],
           },
