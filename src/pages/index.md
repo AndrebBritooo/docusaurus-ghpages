@@ -26,7 +26,7 @@ Endereço: Av. Principal, 123 - Cidade XYZ
 Telefone: (11) 1234-5678
 Email: contato@oficinamecanica.xyz
 
-Siga-nos nas redes sociais: [Facebook](url_do_facebook) | [Instagram](url_do_instagram)
+Siga-nos nas redes sociais: [Facebook](C:\Users\David\docusaurus-ghpages\static\img\facebook.png) | [Instagram](C:\Users\David\docusaurus-ghpages\static\img\transferir.jfif)
 
 Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
 
