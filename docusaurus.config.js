@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina',
   tagline: 'Oficina',
-  favicon: 'Logo.png',
+  favicon: 'Logo.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'Oficina',
         logo: {
-          alt: '',
+          alt: 'logo',
           src: 'Logo.ico',
         },
         items: [
