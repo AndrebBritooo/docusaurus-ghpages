@@ -1,4 +1,4 @@
-# Os Melhores Carros em Nossa Loja
+# Os Melhores Carros na Nossa Loja
 
 Bem-vindo à nossa seleção exclusiva dos melhores carros que já passaram pela nossa loja. Cada veículo nesta lista é uma combinação perfeita de desempenho, estilo e confiabilidade.
 
@@ -8,7 +8,7 @@ Bem-vindo à nossa seleção exclusiva dos melhores carros que já passaram pela
 
 - **Ano:** 2021
 - **Quilometragem:** 20.000 km
-- **Preço:** R$ 150.000,00
+- **Preço:**  150.000
 - **Descrição:** Este elegante sedan combina luxo e desempenho excepcionais. Equipado com recursos avançados, é uma escolha perfeita para quem busca conforto e estilo.
 
 ## 2. Mercedes-Benz Classe C - Modelo 2020
@@ -17,7 +17,7 @@ Bem-vindo à nossa seleção exclusiva dos melhores carros que já passaram pela
 
 - **Ano:** 2020
 - **Quilometragem:** 15.000 km
-- **Preço:** R$ 130.000,00
+- **Preço:**  130.000
 - **Descrição:** O Classe C oferece uma experiência de condução excepcional. Seu design sofisticado e tecnologia de ponta fazem dele uma opção premium para entusiastas de carros.
 
 ## 3. Ford Mustang GT - Modelo 2019
@@ -26,7 +26,7 @@ Bem-vindo à nossa seleção exclusiva dos melhores carros que já passaram pela
 
 - **Ano:** 2019
 - **Quilometragem:** 25.000 km
-- **Preço:** R$ 180.000,00
+- **Preço:** 180.000
 - **Descrição:** Um ícone dos muscle cars, o Mustang GT oferece potência bruta e um design atemporal. Este exemplar em particular é uma joia para os amantes de carros esportivos.
 
 ## Como Comprar
