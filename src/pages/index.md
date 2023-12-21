@@ -31,7 +31,6 @@ Estamos ansiosos para atendê-lo. Entre em contato conosco para agendar uma cons
 **Telefone:** (11) 1234-5678  
 **Email:** contato@oficinamecanica.xyz
 
-Siga-nos nas redes sociais: [Facebook](url_do_facebook) | [Instagram](url_do_instagram)
-
+Siga-nos nas redes sociais:
 Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
 
