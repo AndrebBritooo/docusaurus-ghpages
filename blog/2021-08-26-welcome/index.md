@@ -1,6 +1,6 @@
 ---
 slug: Bem-Vindo
-title: Welcome
+title: Bem Vindo
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
