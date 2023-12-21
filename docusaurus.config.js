@@ -76,7 +76,7 @@ const config = {
             style: 'dark',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'Right',
+            position: 'right',
             label: 'Conselhos',
           },
           {to: '/blog', label: 'Contactos', position: 'right', style: 'dark'},
