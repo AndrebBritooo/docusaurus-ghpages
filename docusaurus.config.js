@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'Logo.ico',
+      image: 'Logo.jpg',
       navbar: {
         title: 'Oficina',
         logo: {
-          alt: 'logo',
-          src: 'Logo.ico',
+          alt: '',
+          src: 'Logo.jpg',
         },
         items: [
           {
