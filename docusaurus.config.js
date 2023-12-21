@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'Oficina',
         logo: {
-          alt: 'logo',
+          alt: '',
           src: 'Logo.ico',
         },
         items: [
