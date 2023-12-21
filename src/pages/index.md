@@ -1,6 +1,6 @@
 # Bem-vindo à Oficina 
 
-![Oficina](https://www.carby.pt/fotos/imagens_ambiente/homepage_d_r_40672661064f1a98798b9e.png.webp)
+![Oficina Mecânica XYZ](https://www.carby.pt/fotos/imagens_ambiente/homepage_d_r_40672661064f1a98798b9e.png.webp)
 
 ## Sobre Nós
 
@@ -16,7 +16,7 @@ Oferecemos uma ampla gama de serviços, incluindo:
 - Freios e Suspensão
 - Serviços de Alinhamento
 
-## Por que Escolher a Oficina?
+## Por que Escolher a Oficina Mecânica XYZ?
 
 - Profissionais Qualificados: Nossa equipe é composta por mecânicos qualificados e experientes.
 - Atendimento Personalizado: Valorizamos cada cliente e nos esforçamos para oferecer um atendimento personalizado.
@@ -27,10 +27,11 @@ Oferecemos uma ampla gama de serviços, incluindo:
 
 Estamos ansiosos para atendê-lo. Entre em contato conosco para agendar uma consulta ou obter mais informações.
 
-**Endereço:** Av. Principal, 123 - Cidade  
+**Endereço:** Av. Principal, 123 - Cidade XYZ  
 **Telefone:** (11) 1234-5678  
-**Email:** contato@oficinamecanica.pt
+**Email:** contato@oficinamecanica.xyz
 
-Siga-nos nas redes sociais:
+Siga-nos nas redes sociais
+
 Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
 
