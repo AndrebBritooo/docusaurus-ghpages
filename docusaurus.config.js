@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Oficina',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  tagline: 'Oficina',
+  favicon: 'Logo.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'AndrebBritooo ', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-ghpages', // Usually your repo name.
+  projectName: 'Oficina', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'meu-logo.jpg.png',
+      image: 'Logo.ico',
       navbar: {
         title: 'Oficina',
         logo: {
           alt: 'logo',
-          src: 'meu-logo.jpg.png',
+          src: 'Logo.ico',
         },
         items: [
           {
