@@ -1,6 +1,6 @@
-# Bem-vindo à Oficina Mecânica XYZ
+# Bem-vindo à Oficina
 
-![Oficina Mecânica XYZ](Logo.ico)
+![Oficina](C:\Users\David\docusaurus-ghpages\static\img\Logo.ico)
 
 ## Sobre Nós
 
@@ -31,7 +31,7 @@ Estamos ansiosos para atendê-lo. Entre em contato conosco para agendar uma cons
 **Telefone:** (11) 1234-5678  
 **Email:** contato@oficinamecanica.xyz
 
-Siga-nos nas redes sociais: [Facebook](facebook.png) | [Instagram](instagram.png)
+Siga-nos nas redes sociais: [Facebook](C:\Users\David\docusaurus-ghpages\static\img\facebook.png) | [Instagram](C:\Users\David\docusaurus-ghpages\static\img\instagram.png)
 
 Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
 
