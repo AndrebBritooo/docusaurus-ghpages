@@ -1,6 +1,6 @@
 # Bem-vindo à Oficina 
 
-![Oficina Mecânica XYZ](https://www.carby.pt/fotos/imagens_ambiente/homepage_d_r_40672661064f1a98798b9e.png.webp)
+![Oficina Mecânica XYZ](url_do_logo_da_oficina)
 
 ## Sobre Nós
 
@@ -31,7 +31,7 @@ Estamos ansiosos para atendê-lo. Entre em contato conosco para agendar uma cons
 **Telefone:** (11) 1234-5678  
 **Email:** contato@oficinamecanica.xyz
 
-Siga-nos nas redes sociais
+Siga-nos nas redes sociais: [Facebook](https://www.facebook.com/images/fb_icon_325x325.png) | [Instagram](https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png)
 
 Visite nossa oficina hoje e confie seus cuidados automotivos a especialistas!
 
