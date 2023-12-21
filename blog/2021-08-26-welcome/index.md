@@ -3,7 +3,7 @@ slug: Quem somos
 title: Quem somos
 ---
 
-Bem-vindo à [Oficina]!
+Bem-vindo à Oficina
 
 Somos uma equipe apaixonada por automóveis, dedicada a fornecer serviços de alta qualidade e soluções confiáveis para todos os nossos clientes. Desde a nossa fundação, temos nos esforçado para ser a escolha número um quando se trata de cuidar do seu veículo.
 
