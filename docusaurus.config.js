@@ -71,15 +71,17 @@ const config = {
           src: 'C:\Users\YvngZennie\Desktop\Andre\docusaurus-ghpages\static\img\favicon.ico',
         },
         items: [
+          
           {
+            style: 'dark',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            position: 'Right',
+            label: 'Conselhos',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Contactos', position: 'right', style: 'dark'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/facebook/ docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -128,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} A melhor oficina do algarve`,
       },
       prism: {
         theme: lightCodeTheme,
